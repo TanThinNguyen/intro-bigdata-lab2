@@ -1,0 +1,7 @@
+# Testcases cho MapReduce Level 1
+https://drive.google.com/drive/folders/1uUNIkwgZWGv4aq714DKUJknC63y3i42I?usp=sharing
+
+# Testcases cho MapReduce Level 2
+http://www.gutenberg.org/ebooks/20417
+http://www.gutenberg.org/ebooks/5000
+http://www.gutenberg.org/ebooks/4300
